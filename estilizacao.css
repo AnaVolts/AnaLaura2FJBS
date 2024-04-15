@@ -10,13 +10,28 @@
     align-items: center;
 }
 .lista-cabecalho{
-color: white;
+color: #ffffff;
 }
 .Primeira-parte{
-    background-image: -o-linear-gradient(#424e61),(#4ebfe9);
+    background-image:-o-linear-gradient(#242e91,#ffffff)
     height: 500px;
     color: white;
     padding-top: 100px;
 }
-.texto
+.primeiro-paragrafo{
+    color: black;
+}
 
+.segundo-paragrafo{
+    color: black;
+}
+
+
+.foto-estudante{
+width: 35%;
+}
+
+
+.titulo{
+    color: black;
+}
