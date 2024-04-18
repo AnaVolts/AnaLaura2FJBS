@@ -8,30 +8,34 @@
     display:flex;
     justify-content:space-around;
     align-items: center;
+    padding: 30px 0%;
 }
 .lista-cabecalho{
 color: #ffffff;
 }
-.Primeira-parte{
-    background-image:-o-linear-gradient(#242e91,#ffffff)
+.item-lista-cabecalho{
+    display: inline-block;
+}
+.primeira-parte{
+    background-image: linear-gradient(#424e61,#ffffff);
     height: 500px;
     color: white;
     padding-top: 100px;
 }
 .primeiro-paragrafo{
-    color: black;
+    color: white;
 }
 
 .segundo-paragrafo{
-    color: black;
+    color: white;
 }
 
 
 .foto-estudante{
-width: 35%;
+width: 30%;
 }
 
 
 .titulo{
-    color: black;
+    color: white;
 }
